@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="GWJZ4T_Heidrich_Lorand_Beadando" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/GWJZ4T_Heidrich_Lorand_Beadando" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/GWJZ4T_Heidrich_Lorand_Beadando" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Bus.cpp" />
+		<Unit filename="Bus.hpp" />
+		<Unit filename="Car.cpp" />
+		<Unit filename="Car.hpp" />
+		<Unit filename="IssuingCountries.cpp" />
+		<Unit filename="IssuingCountries.hpp" />
+		<Unit filename="LicensePlate.cpp" />
+		<Unit filename="LicensePlate.hpp" />
+		<Unit filename="Machinery.cpp" />
+		<Unit filename="Machinery.hpp" />
+		<Unit filename="MenuController.cpp" />
+		<Unit filename="MenuController.hpp" />
+		<Unit filename="PassengerVehicle.cpp" />
+		<Unit filename="PassengerVehicle.hpp" />
+		<Unit filename="Truck.cpp" />
+		<Unit filename="Truck.hpp" />
+		<Unit filename="Vehicle.cpp" />
+		<Unit filename="Vehicle.hpp" />
+		<Unit filename="XMLHandler.cpp" />
+		<Unit filename="XMLHandler.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="pugiconfig.hpp" />
+		<Unit filename="pugixml.cpp" />
+		<Unit filename="pugixml.hpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
