@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<fleet>
+	<vehicle>
+		<LicensePlateNumber>DKF851</LicensePlateNumber>
+		<LicensePlateIssuingCountry>Spain</LicensePlateIssuingCountry>
+		<Type>Car</Type>
+		<Make>Mercedes</Make>
+		<Model>C</Model>
+		<Year>2015</Year>
+		<DateRentedOut>0</DateRentedOut>
+		<Kms>150380</Kms>
+		<PricePerKm>25</PricePerKm>
+		<PricePerDay>0.5</PricePerDay>
+		<AvailableToRent>true</AvailableToRent>
+		<KmReturned>0</KmReturned>
+	</vehicle>
+</fleet>
