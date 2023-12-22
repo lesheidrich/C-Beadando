@@ -7,7 +7,7 @@ Az autópark különböző kategóriákat tartalmaz:
 3. Teherautó (km egységár, napi egységár, tonna egységár)
 4. Munkagép (munkanap egységár, tonna egységár)
 
-## A bérleti díj számítása a következő igénybevételi paraméterek alapján történik:
+### A bérleti díj számítása a következő igénybevételi paraméterek alapján történik:
 Személygépkocsi: 
 * Megtett kilométer
 * Megkezdett napok száma
@@ -26,14 +26,14 @@ Munkagép:
 * Megkezdett napok száma
 * Rakodott tonna
   
-## Minimálisan teljesítendő
+### Minimálisan teljesítendő
 * Jármű felvétele az autóparkba.
 * Járműpark listázása a gépjármű paramétereivel, és árajánlattal (napra, km-re, főre, tonnára) becsült igénybevétel alapján.
-## Közepes szint
+### Közepes szint
 * A fentiek, és keresés: a listából lehet keresni rendszám alapján, és az illető járműre költséget számolni a teljesített igénybevétel alapján.
-## Jó szint
+### Jó szint
 * A fentiek, és a kiválasztott járművel műveleteket lehet végezni: árajánlat, kiadás, visszavétel, törlés az autóparkból. 
-## Teljes megoldás:
+### Teljes megoldás:
 * A fentiek, és több szintű szűrő feltételek alapján történő listázás (elérhető, kategória, költségtartomány, stb)
 * Fájlba mentés, illetve visszatöltés, egyéb fájl műveletek (biztonsági mentés, stb).
   
