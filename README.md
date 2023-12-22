@@ -3,9 +3,9 @@
 Egy autó/munkagép kölcsönző cég számára kell olyan programot írni, amely nyilvántartja az autóparkot.
 Az autópark különböző kategóriákat tartalmaz:
 1. Személygépkocsi (km egységár, napi egységár)
-Busz-kisbusz (km egységár, napi egységár, személyenkénti biztosítás díja)
-Teherautó (km egységár, napi egységár, tonna egységár)
-Munkagép (munkanap egységár, tonna egységár)
+2. Busz-kisbusz (km egységár, napi egységár, személyenkénti biztosítás díja)
+3. Teherautó (km egységár, napi egységár, tonna egységár)
+4. Munkagép (munkanap egységár, tonna egységár)  
 A bérleti díj számítása a következő igénybevételi paraméterek alapján történik:
 Személygépkocsi: 
 Megtett kilométer
